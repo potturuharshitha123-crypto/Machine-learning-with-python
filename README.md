@@ -20,3 +20,20 @@ This project demonstrates a basic implementation of Logistic Regression using Py
 
 ## Learning Outcome
 Learned how Logistic Regression is used for binary classification problems such as Pass/Fail, Yes/No, and True/False predictions.
+# Machine Learning Practice Programs
+
+This repository contains beginner-friendly Python programs for Machine Learning concepts.
+
+## Topics Covered
+- Cost Function (Mean Squared Error)
+- Gradient Boosting Classifier
+- Pickling and Unpickling
+- Joblib Save and Load
+
+## Technologies Used
+- Python
+- Scikit-learn
+- Joblib
+
+## Author
+Harshita
