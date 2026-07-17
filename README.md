@@ -37,3 +37,5 @@ This repository contains beginner-friendly Python programs for Machine Learning 
 
 ## Author
 Harshita
+decision tree algorithim
+“Implemented a Decision Tree Classifier using the Iris dataset with Scikit-learn and evaluated model accuracy.”
