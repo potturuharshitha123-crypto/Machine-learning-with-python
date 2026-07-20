@@ -33,6 +33,58 @@ This repository contains beginner-friendly Python programs for Machine Learning 
 ## Technologies Used
 - Python
 - Scikit-learn
+
+
+
+# Iris Flower Classification using Random Forest
+
+## Overview
+This project demonstrates how to classify Iris flower species using the Random Forest algorithm from Scikit-learn. The model is trained on the famous Iris dataset and evaluated using accuracy, confusion matrix, and classification report.
+
+## Dataset
+- Source: Scikit-learn Built-in Iris Dataset
+- Number of Samples: 150
+- Number of Features: 4
+- Target Classes:
+  - Setosa
+  - Versicolor
+  - Virginica
+
+## Technologies Used
+- Python
+- Scikit-learn
+- NumPy
+
+## Machine Learning Algorithm
+- Random Forest Classifier
+
+## Steps Performed
+1. Import required libraries.
+2. Load the Iris dataset.
+3. Split the dataset into training and testing sets.
+4. Train the Random Forest model.
+5. Predict the test data.
+6. Evaluate the model using:
+   - Accuracy Score
+   - Classification Report
+   - Confusion Matrix
+
+## Output
+The program displays:
+- Model Accuracy
+- Precision, Recall, and F1-Score
+- Confusion Matrix
+
+## Sample Output
+
+Accuracy: 1.0
+
+## Learning Outcomes
+- Understanding the Iris dataset.
+- Importing datasets from Scikit-learn.
+- Training a Random Forest Classifier.
+- Making predictions.
+- Evaluating machine learning models.
 - Joblib
 
 ## Author
