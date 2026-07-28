@@ -85,6 +85,87 @@ Accuracy: 1.0
 - Training a Random Forest Classifier.
 - Making predictions.
 - Evaluating machine learning models.
+
+- # SVM Classification on Wine Dataset
+
+## Overview
+
+This project demonstrates the implementation of a **Support Vector Machine (SVM)** classifier using the Wine dataset available in Scikit-learn. The model is trained using a **Linear Kernel** and visualized with a decision boundary graph.
+
+---
+
+## Dataset
+
+- Dataset: Wine Dataset
+- Source: Scikit-learn
+- Samples: 178
+- Features: 13
+- Classes: 3
+
+For visualization, only the first two features are used:
+- Alcohol
+- Malic Acid
+
+---
+
+## Technologies Used
+
+- Python
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## Machine Learning Algorithm
+
+- Support Vector Machine (SVM)
+- Linear Kernel
+
+---
+
+## Steps Performed
+
+1. Import required libraries.
+2. Load the Wine dataset.
+3. Select the first two features.
+4. Split the dataset into training and testing sets.
+5. Train the SVM model.
+6. Predict the test data.
+7. Calculate the model accuracy.
+8. Visualize the decision boundary.
+
+---
+
+## Output
+
+- Model Accuracy
+- Decision Boundary Graph
+
+---
+
+## Learning Outcomes
+
+- Understand Support Vector Machines.
+- Learn how to use the Wine dataset.
+- Train an SVM classifier.
+- Evaluate model accuracy.
+- Visualize classification boundaries.
+
+---
+
+## Future Improvements
+
+- Compare Linear, RBF, Polynomial, and Sigmoid kernels.
+- Use all 13 features with dimensionality reduction (PCA).
+- Add a confusion matrix and classification report.
+- Perform hyperparameter tuning.
+
+---
+
+## Author
+
+**Harshitha**
 - Joblib
 
 ## Author
